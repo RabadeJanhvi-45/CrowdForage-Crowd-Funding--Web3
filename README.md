@@ -1,6 +1,7 @@
 # Crowdfunding Application
 
-![Crowdfunding](https://github.com/user-attachments/assets/420fa153-bcc0-4ffc-85c6-7b43ec256e4f)
+![image](https://github.com/user-attachments/assets/aa416775-68eb-4b61-a4f4-9fc0dbf35acf)
+
 
 This is a decentralized crowdfunding platform that allows users to create and donate to fundraising campaigns using Ethereum blockchain. By connecting a MetaMask wallet, users can securely raise funds and contribute to campaigns in a transparent way.
 
@@ -32,7 +33,8 @@ This is a decentralized crowdfunding platform that allows users to create and do
 
 To raise funds, users must first connect their MetaMask wallet. Once connected, the "Connect Wallet" button will disappear.
 
-![Connect Wallet](https://github.com/user-attachments/assets/3915acfd-fa3c-4856-97b0-83c442e3beef)
+![Connect Wallet](https://github.com/user-attachments/assets/9a45f257-308d-4544-b9cb-a9cf1b45bb32)
+
 
 ---
 
@@ -40,7 +42,9 @@ To raise funds, users must first connect their MetaMask wallet. Once connected, 
 
 Users can create a campaign by filling out a simple form with the campaign's title, description, and target amount.
 
-![Create Campaign](https://github.com/user-attachments/assets/4bc7295e-1da5-48a4-80c2-6916892f8418)
+
+![Create Campaign](https://github.com/user-attachments/assets/3ad02ff4-7c60-489c-86f4-06a36d882244)
+
 
 ---
 
@@ -48,7 +52,8 @@ Users can create a campaign by filling out a simple form with the campaign's tit
 
 When the user clicks on "Create Campaign," a transaction request is sent to MetaMask for confirmation. The user must approve the request to create the campaign.
 
-![MetaMask Transaction](https://github.com/user-attachments/assets/6b97334f-66fb-4ef9-99b1-1ce01e7f6128)
+![MetaMask Transaction](https://github.com/user-attachments/assets/63d63ba5-1a36-4957-b480-a6d795536164)
+
 
 ---
 
@@ -56,7 +61,8 @@ When the user clicks on "Create Campaign," a transaction request is sent to Meta
 
 Once the transaction is confirmed, the campaign will be visible on the platform with the entered data.
 
-![Campaign Created](https://github.com/user-attachments/assets/77cad323-b3c6-49ff-b210-f24dca486a68)
+![Campaign Created](https://github.com/user-attachments/assets/f506179e-b21b-4574-a49a-71f8d248e9c7)
+
 
 ---
 
@@ -64,8 +70,10 @@ Once the transaction is confirmed, the campaign will be visible on the platform 
 
 To donate, users can click on an active campaign and proceed to contribute.
 
-![Campaign List](https://github.com/user-attachments/assets/b18eba8f-88b2-4d6d-91c5-e08a6089e0ab)
-![Donate](https://github.com/user-attachments/assets/3d1d65e7-312d-410e-90a4-205c4d883fbe)
+![Campaign List](https://github.com/user-attachments/assets/9db5d447-a5b5-42a7-abfc-6a4dd2104c9d)
+
+![Donate]!(https://github.com/user-attachments/assets/16a31ad0-fdd9-4a31-84a8-9321bb3a5417)
+
 
 ---
 
@@ -73,7 +81,8 @@ To donate, users can click on an active campaign and proceed to contribute.
 
 MetaMask will prompt users to confirm the transaction when donating funds to a campaign.
 
-![MetaMask Donation](https://github.com/user-attachments/assets/b05b9e7c-fbab-4b2c-b2df-53f5c53ef405)
+![MetaMask Donation](https://github.com/user-attachments/assets/1ad877a3-5cf1-4a62-b8e9-89004e57073e)
+
 
 ---
 
@@ -81,6 +90,6 @@ MetaMask will prompt users to confirm the transaction when donating funds to a c
 
 Once the transaction is confirmed, the raised amount is updated in real time.
 
-![Funds Raised](https://github.com/user-attachments/assets/50ae424a-38d0-4d65-a72c-6748db01df1d)
+![Funds Raised]![image](https://github.com/user-attachments/assets/fc629683-81fc-4782-b04f-0c17f818e30e)
 
 ---
